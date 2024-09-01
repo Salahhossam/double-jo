@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "233482499247",
+    "project_id": "double-joo",
+    "storage_bucket": "double-joo.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:233482499247:android:41c24fe2553cad9db7105a",
+        "android_client_info": {
+          "package_name": "com.example.double_joo"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAjTzdAvaOhcSfqI2gafbAOZbQ6XFKaRRs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

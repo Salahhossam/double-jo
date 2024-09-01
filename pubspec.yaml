@@ -1,0 +1,63 @@
+name: double_joo
+description: "A new Flutter project."
+publish_to: 'none'
+version: 0.1.0
+
+environment:
+  sdk: '>=3.3.0 <4.0.0'
+
+dependencies:
+  cloud_firestore: ^5.2.1
+  firebase_auth: ^5.1.4
+  firebase_core: ^3.3.0
+  fl_chart: ^0.68.0
+  flutter:
+    sdk: flutter
+  flutter_year_picker: ^0.0.1
+  month_picker_dialog: ^2.0.0
+  syncfusion_flutter_calendar: ^26.2.9
+  table_calendar: ^3.0.9
+  flutter_styled_toast: ^2.0.0
+  lottie: ^3.1.2
+  flutter_staggered_animations: ^1.1.1
+
+  
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^3.0.0
+
+flutter:
+  uses-material-design: true
+
+  assets:
+   - images/IMG_20220210_171001.jpg
+   - images/اناناس.jpeg
+   - images/ايس كيك شيككولاته.jpeg
+   - images/ايس كيك فراولة.jpeg
+   - images/بندق.jpeg
+   - images/بوريو.jpeg
+   - images/تفاح.jpeg
+   - images/توت بري.jpeg
+   - images/توت بنفسجي.jpeg
+   - images/جوافة.jpeg
+   - images/حليب.jpeg
+   - images/خوخ.jpeg
+   - images/زبادي توت.jpeg
+   - images/زبادي فراولة.jpeg
+   - images/زبيب.jpeg
+   - images/سنيكرز.jpeg
+   - images/شيكولاته.jpeg
+   - images/فحم.jpg
+   - images/فراولة.jpeg
+   - images/فواكه.jpeg
+   - images/كراميل.jpeg
+   - images/لمون.jpeg
+   - images/لوتس.jpeg
+   - images/مانجو.jpeg
+   - images/موز.jpeg
+   - images/نسكافية.jpeg
+   - images/نيوتيلا.jpeg
+   - images/يوسفي.jpeg
+   - images/هوهوز.jpeg
+   - images/توينكز.jpeg
